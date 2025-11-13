@@ -1,0 +1,22 @@
+{
+  "home": {
+    "welcomeBack": "Welcome Back,",
+    "user": "John Max!",
+    "today": "Today",
+    "todaysTask": "Today's Task",
+    "yesterdayTask": "Yesterday Task",
+    "meeting": "Meeting Time is"
+  },
+  
+  "addTask": {
+    "title": "Add Task",
+    "subject": "Subject",
+    "subjectPlaceholder": "Enter your subject",
+    "date": "Date",
+    "datePlaceholder": "MM/DD/YYYY",
+    "task": "Task",
+    "taskPlaceholder": "Enter your task details...",
+    "save": "Save Task"
+  }
+
+}

@@ -1,0 +1,20 @@
+{
+  "home": {
+    "welcomeBack": "خوش آمدید،",
+    "user": "جان میکس!",
+    "today": "آج",
+    "todaysTask": "آج کے کام",
+    "yesterdayTask": "کل کے کام",
+    "meeting": "میٹنگ کا وقت"
+  },
+    "addTask": {
+    "title": "کام شامل کریں",
+    "subject": "عنوان",
+    "subjectPlaceholder": "اپنا عنوان درج کریں",
+    "date": "تاریخ",
+    "datePlaceholder": "MM/DD/YYYY",
+    "task": "تفصیل",
+    "taskPlaceholder": "اپنے کام کی تفصیل درج کریں...",
+    "save": "محفوظ کریں"
+  }
+}
