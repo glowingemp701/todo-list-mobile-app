@@ -6,6 +6,7 @@ import fonts from "../../theme/fonts";
 interface Day {
   label: string;
   date: number;
+  fullDate?: Date;
 }
 
 interface Props {
